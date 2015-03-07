@@ -1,0 +1,19 @@
+G04 DipTrace Beta 2.3.5.2*
+%IN7W_Booster.GKO*%
+%MOIN*%
+%ADD11C,0.0055*%
+%FSLAX44Y44*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBoardOutline*%
+%LPD*%
+X-60Y-10D2*
+D11*
+Y9730D1*
+X14750D1*
+Y0D1*
+X-60Y-10D1*
+M02*
